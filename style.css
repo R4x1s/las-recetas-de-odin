@@ -1,0 +1,33 @@
+div {
+    padding: 8px;
+    text-align: center;
+    margin: 8px;
+    width: 200px;
+    color: rgb(10, 10, 10);
+    background-color: lightblue;
+}
+img {
+    width: 200px;
+}
+h3 {
+    font-family:Arial, Helvetica, sans-serif
+}
+p {
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+    width: 500px;
+    padding: 0px;
+    border: 10px solid lightblue;
+    margin: 20px;
+    color: black;
+    background-color: lightblue;
+}
